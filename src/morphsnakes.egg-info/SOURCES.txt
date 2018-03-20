@@ -1,6 +1,0 @@
-README.rst
-src/morphsnakes.egg-info/PKG-INFO
-src/morphsnakes.egg-info/SOURCES.txt
-src/morphsnakes.egg-info/dependency_links.txt
-src/morphsnakes.egg-info/requires.txt
-src/morphsnakes.egg-info/top_level.txt
